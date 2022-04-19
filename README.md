@@ -5,10 +5,10 @@ A pokedex app using PokeAPI.
 
 Technologies Used:
 
--TypeScript
--ExpoCLI
--React Native
--API Rest
+ - TypeScript
+- ExpoCLI
+- React Native
+- API Rest
 
 Video:
 
